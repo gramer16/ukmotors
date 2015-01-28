@@ -135,6 +135,8 @@ Rails.application.routes.draw do
   get 'pages/semitrailerdealer'
   get 'pages/usedsemitrailerdealer'
   get 'pages/membership'
+  get 'pages/termsofuse'
+  get 'pages/privacypolicy'
   get 'pages/heavyequipment'
   get 'pages/heavyequipmentservices'
   get 'pages/heavydealer'
